@@ -2,6 +2,8 @@
 
 ## _unreleased_
 
+* Implement `unGrab` from `xmonad-contrig` in `XMonad.Operations`
+
 ### Breaking Changes
 
 * Dropped support for GHC 8.4.
